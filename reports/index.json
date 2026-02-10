@@ -1,0 +1,23 @@
+[
+  {
+    "id": "20260210-181402-4zpp",
+    "title": "Unknown Commander",
+    "commanders": [],
+    "dateStart": "2026-02-10T09:14:02.000Z",
+    "dateEnd": "2026-02-10T09:14:54.000Z",
+    "dateLabel": "2026. 2. 10. 오후 6:14:02 - 2026. 2. 10. 오후 6:14:54",
+    "url": "https://minzzang2da-ctrl.github.io/RooLogs/?report=20260210-181402-4zpp",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 1,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 3
+    }
+  }
+]
