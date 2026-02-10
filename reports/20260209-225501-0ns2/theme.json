@@ -1,6 +1,6 @@
 {
-  "id": "Aurora",
-  "label": "Aurora",
-  "rgb": "34, 211, 238",
-  "pattern": "radial-gradient(at 0% 0%, hsla(160, 80%, 18%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(280, 75%, 22%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(200, 85%, 15%, 1) 0, transparent 70%)"
+  "id": "Slate",
+  "label": "Slate",
+  "rgb": "148, 163, 184",
+  "pattern": "radial-gradient(at 0% 0%, hsla(210, 30%, 20%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(200, 40%, 25%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(220, 30%, 30%, 1) 0, transparent 70%)"
 }
