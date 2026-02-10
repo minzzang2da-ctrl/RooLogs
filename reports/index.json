@@ -1,5 +1,29 @@
 [
   {
+    "id": "20260207-233527-8tsn",
+    "title": "Alpha Thug, Mofo Mafia",
+    "commanders": [
+      "Alpha Thug",
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-02-07T14:35:27.000Z",
+    "dateEnd": "2026-02-10T14:27:05.000Z",
+    "dateLabel": "2026. 2. 7. 오후 11:35:27 - 2026. 2. 10. 오후 11:27:05",
+    "url": "https://minzzang2da-ctrl.github.io/RooLogs/?report=20260207-233527-8tsn",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 7,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 9
+    }
+  },
+  {
     "id": "20260207-233527-kl8o",
     "title": "Mofo Mafia",
     "commanders": [
